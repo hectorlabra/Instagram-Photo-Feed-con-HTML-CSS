@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(234, 234, 234);
+  margin: 0;
+}
+
+header {
+  background-color: white;
+  padding: 10px;
+}
+
+section {
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.title {
+  float: left;
+  margin-left: 3%;
+  padding: 0;
+}
+
+.date {
+  float: right;
+  margin-left: 55%;
+  padding-top: 8px;
+  color: grey;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  padding: 3%;
+  padding-bottom: 5%;
+}
